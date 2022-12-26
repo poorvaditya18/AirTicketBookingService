@@ -26,14 +26,10 @@ class BookingRepository {
     }
   }
 
-  //update 
-  async update(data)
-  {
+  //update
+  async update(data) {
     try {
-        
-    } catch (error) {
-        
-    }
+    } catch (error) {}
   }
 }
 
